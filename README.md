@@ -13,7 +13,7 @@ The objective of the game is to outsmart the computer by choosing the winning ha
 - Paper covers Rock
 
 ## 🎮 How to Play
-1. Open the game in your web browser.
+1. Open the game in your web browser or you can go to the [🔗live demo](https://joalinpineda.github.io/rock-paper-scissors-js/).
 2. Select your choice: Rock, Paper, or Scissors by clicking on the corresponding button.
 3. The computer will randomly choose its move.
 4. The results will be displayed on the screen, indicating whether you won, lost, or it's a tie.
@@ -35,4 +35,4 @@ The objective of the game is to outsmart the computer by choosing the winning ha
 - Navigate to the project directory.
 - Open the index.html file in your web browser.
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
